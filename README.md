@@ -1,2 +1,2 @@
-# Qr
+# QR code component
 QRweb
